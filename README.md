@@ -3,17 +3,17 @@
 ## 學習進度
 
 ### 第一階段：基礎打底
-- [ ] Lesson 1：統計基礎（平均、標準差）
-- [ ] Lesson 2：Python 入門與 Pandas
-- [ ] Lesson 3：簡單交易策略
-- [ ] Lesson 4：回測框架搭建
-- [ ] Lesson 5：機率與相關係數，股票聯動性分析
-- [ ] Lesson 6：微積分 & 線性代數在金融中的應用
-- [ ] Lesson 7：股票與 ETF 基礎知識（K 線、成交量）
-- [ ] Lesson 8：小專案：台積電/蘋果股價統計分析
+- [ ] Lesson 01：統計基礎（平均、標準差）
+- [ ] Lesson 02：Python 入門與 Pandas
+- [ ] Lesson 03：簡單交易策略
+- [ ] Lesson 04：回測框架搭建
+- [ ] Lesson 05：機率與相關係數，股票聯動性分析
+- [ ] Lesson 06：微積分 & 線性代數在金融中的應用
+- [ ] Lesson 07：股票與 ETF 基礎知識（K 線、成交量）
+- [ ] Lesson 08：小專案：台積電/蘋果股價統計分析
 
 ### 第二階段：量化入門
-- [ ] Lesson 9：Backtrader 入門（回測環境搭建）
+- [ ] Lesson 09：Backtrader 入門（回測環境搭建）
 - [ ] Lesson 10：移動平均交叉策略（MA Cross）
 - [ ] Lesson 11：技術指標策略（RSI、MACD）
 - [ ] Lesson 12：均值回歸 vs 動能策略比較
