@@ -62,5 +62,3 @@
 - [ ] Lesson 51：完整交易研究報告撰寫
 - [ ] Lesson 52：發表「畢業專案」模擬大師級分享
 
-- [均值回歸策略](notebooks/mean_reversion.ipynb)
-- [動能策略](notebooks/momentum.ipynb)
